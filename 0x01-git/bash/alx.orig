@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+ALX School is so cool!
+=======
+echo"ALX school"
+>>>>>>> 2838e5b (My personal work)
